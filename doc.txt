@@ -1,0 +1,46 @@
+                                          E-School
+                                          ========
+
+Font-family: poppins {400, 500, 700}
+             roboto {400}
+
+             font-family: 'Poppins', sans-serif;
+
+             font-family: 'Roboto', sans-serif;
+           
+font-color: #000000; (black)
+            #21B573; (green)
+            #FD511A; (hover)
+
+
+
+
+bg-color: #F0FFF0
+
+
+HEADER {logo, menu {Books, Courses, Others, Blog}, Sing in}
+
+banner------------------------------------------------------------------------------------------
+xxl/xl/lg                                       md                                       sm/col
+
+padding
+35/65                                        10 0 60
+
+h1 xxl/xl(48) lg(40)                           35
+
+48(xxl/xl)/40(lg)
+
+feature-----------------------------------------------------------------------------------------
+xxl/xl/lg                                      md                                        sm/col
+
+-----------------------------------------------pb-----------------------------------------------
+100                                            80                                          60
+
+-----------------------------------------------mt-----------------------------------------------
+40
+
+RULES: 01.Layout
+------ 02.Section
+       03.Semantic
+       04.Reuseable blocks
+       05.Code repetition avoid
